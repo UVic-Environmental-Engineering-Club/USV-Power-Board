@@ -12,3 +12,48 @@
  * @param event_id event id
  * @param event_data event specific arguments
  */
+
+void ADC_run()
+{
+
+}
+
+void MTR_1_current()
+{
+
+}
+
+void MTR_2_current()
+{
+
+}
+
+void current_12V()
+{
+
+}
+
+void current_7V4()
+{
+
+}
+
+void current_5V()
+{
+    
+}
+
+void temperature_12V()
+{
+
+}
+
+void temperature_7V4()
+{
+
+}
+
+void temperature_5V()
+{
+
+}
