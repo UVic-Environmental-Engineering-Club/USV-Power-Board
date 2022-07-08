@@ -6,6 +6,7 @@
 
 #include "communications.h"
 #include "sensors.h"
+#include "Status_LED.h"
 
 #define UART_TASK_RUN_PERIOD 50
 #define I2C_TASK_RUN_PERIOD 50
